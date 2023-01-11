@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: Kali
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 436cd60a835fad14cb242a45b6fcb998, type: 3}
+    answer: 4
+  - questionImage: {fileID: 21300000, guid: 3864f5e519f72ee4b8faf0283974b680, type: 3}
+    answer: 6
+  - questionImage: {fileID: 21300000, guid: 2ee17fd3d081dd5488f7ca4743744cbd, type: 3}
+    answer: 6
+  - questionImage: {fileID: 21300000, guid: e6f347922fbf6094aac31849de05c778, type: 3}
+    answer: 8
+  - questionImage: {fileID: 21300000, guid: 8e6a074b9d26ca54e96c108ce7d2437c, type: 3}
+    answer: 4
+  - questionImage: {fileID: 21300000, guid: d8abf1b88aa201b4b95afdf99c394094, type: 3}
+    answer: 9
+  - questionImage: {fileID: 21300000, guid: bff46c9f83b531643a05a2815683f873, type: 3}
+    answer: 8
+  - questionImage: {fileID: 21300000, guid: 9ec3638e74219fd49a064be3e89dc3af, type: 3}
+    answer: 6

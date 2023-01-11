@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: Kurang
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 3fb8c4ed13eaa3b4bbbd254c00528b4a, type: 3}
+    answer: 1
+  - questionImage: {fileID: 21300000, guid: a2669d25ff5599b45a8727311b843121, type: 3}
+    answer: 1
+  - questionImage: {fileID: 21300000, guid: a61b623f53bbfb54cb9fce2aad68d057, type: 3}
+    answer: 2
+  - questionImage: {fileID: 21300000, guid: fe2b65f257db30e41bb442aa65d9a5f3, type: 3}
+    answer: 1
+  - questionImage: {fileID: 21300000, guid: 98ae36b8dcf55e64e9b3b5d00ca7a21b, type: 3}
+    answer: 0
+  - questionImage: {fileID: 21300000, guid: b962758258de20640a5ff80e95d9d48b, type: 3}
+    answer: 0
+  - questionImage: {fileID: 21300000, guid: 3187483615e2df945907632916848f0e, type: 3}
+    answer: 3
+  - questionImage: {fileID: 21300000, guid: 32e0372581f34db40afd89af34df8168, type: 3}
+    answer: 0
+  - questionImage: {fileID: 21300000, guid: cddc4612049867d419d0194a5fae8572, type: 3}
+    answer: 4
+  - questionImage: {fileID: 21300000, guid: cf3d59da0b7517e408d28e0a2d2e051f, type: 3}
+    answer: 5

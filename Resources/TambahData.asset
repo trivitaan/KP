@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: TambahData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 1a493d5824cbfd64abc0cfeb462f2a2f, type: 3}
+    answer: 2
+  - questionImage: {fileID: 21300000, guid: 44e11967f18838a4a911e7c5bbfd96d8, type: 3}
+    answer: 6
+  - questionImage: {fileID: 21300000, guid: f90a787d46b7a444290469a845e2fb98, type: 3}
+    answer: 9
+  - questionImage: {fileID: 21300000, guid: cf8972b3e97fd7144b396ebdbd7ea5ed, type: 3}
+    answer: 13
+  - questionImage: {fileID: 21300000, guid: c75381bd9a1ae34489891dd0e5104adb, type: 3}
+    answer: 12

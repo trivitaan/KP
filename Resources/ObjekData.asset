@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: ObjekData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 1ac4c4f6c412ea245af4c6243bafac3d, type: 3}
+    answer: kangguru
+  - questionImage: {fileID: 21300000, guid: e522031310656d84088ac87a4a4dd405, type: 3}
+    answer: kelelawar
+  - questionImage: {fileID: 21300000, guid: 6e063f191a4b50a4a9c1bec9c0c77c53, type: 3}
+    answer: bekantan
+  - questionImage: {fileID: 21300000, guid: 6009239bdf5585849a5ac5cf37578cc5, type: 3}
+    answer: belalang
+  - questionImage: {fileID: 21300000, guid: d9e1fe5a8b937c04aa353b74b444fddf, type: 3}
+    answer: pinguin
+  - questionImage: {fileID: 21300000, guid: a9c761bf6afb1164b83accb252950394, type: 3}
+    answer: orangutan
+  - questionImage: {fileID: 21300000, guid: 101d83c6c314b8842bff79323498f0c7, type: 3}
+    answer: kurakura
+  - questionImage: {fileID: 21300000, guid: 048d0eb155b1ef44285e76b7a1dae2cd, type: 3}
+    answer: kelinci
+  - questionImage: {fileID: 21300000, guid: 4b601f2ee10a97642b3c6a42c72ddeb4, type: 3}
+    answer: labalaba
+  - questionImage: {fileID: 21300000, guid: cc4b3787361ebc1488b2d64435400d62, type: 3}
+    answer: uburubur
